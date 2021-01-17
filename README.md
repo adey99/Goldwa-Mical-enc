@@ -6,4 +6,4 @@ Goldwasser–Micali consists of three algorithms: a probabilistic key generation
 
 # Sample Output
 
-[!output](https://github.com/adey99/Goldwa-Mical-enc/blob/master/goldwamicalenc.png)
+![output](https://github.com/adey99/Goldwa-Mical-enc/blob/master/goldwamicalenc.png)
